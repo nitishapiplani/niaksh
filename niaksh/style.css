@@ -1,0 +1,72 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  background-image: url("images/hotel.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+body{
+    background-image: url("images/hotel.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300%;
+}
+.heading{
+    font-family: 'Festive', cursive;
+    position: relative;
+    text-align: center;
+    top:214px;
+    font-size: 150px;
+    font-color:black;
+}
+.quote{
+  font-family: 'Festive', cursive;
+  text-align: center;
+  position: relative;
+  top:150px;
+  font-weight: bold;
+
+}
+.rooms{
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  position: relative;
+  top: 300px;
+  font-style: italic;
+  font-size: 70PX;
+  z-index: 1;
+  color: white;
+  padding-bottom: 50px;
+}
+.luxuryroom{
+  position: relative;
+  top: 292px;
+  left: 60px;
+}
+.HOLLYWOODTWIN{
+  width:282px;
+  position: relative;
+  left: 480px;
+  top: 10px;
+}
+.penthouse{
+  width:282px;
+  position: relative;
+  left: 920px;
+  bottom: 270px;
+
+}
+.offers{
+  font-family:'Lobster', cursive
+  text-align: center;
+  color: white;
+  font-size: 80px;
+  text-align: center;
+  bottom: 200px;
+  position: relative;
+}
+.off{
+  width: 100%;
+  height: 50%;
+  color: white;
+}
